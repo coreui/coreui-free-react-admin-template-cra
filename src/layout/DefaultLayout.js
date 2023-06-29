@@ -1,7 +1,20 @@
-import React from 'react'
+import React, { useEffect } from 'react'
+import { useLocation } from 'react-router-dom'
+
 import { AppContent, AppSidebar, AppFooter, AppHeader } from '../components/index'
 
 const DefaultLayout = () => {
+  const location = useLocation()
+
+  useEffect(() => {
+    // Google Tag Manager
+    window.dataLayer = window.dataLayer || []
+    window.dataLayer.push({
+      event: 'pageview',
+      page_location: window.location.href,
+    })
+  }, [location])
+
   return (
     <div>
       <AppSidebar />
