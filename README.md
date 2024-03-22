@@ -1,4 +1,4 @@
-# CoreUI Free React Admin Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=CoreUI%20-%20Free%React%204%20Admin%20Template%20&url=https://coreui.io&hashtags=bootstrap,admin,template,dashboard,panel,free,angular,react,vue)
+# CoreUI Free React Admin Template (Create React App)[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=CoreUI%20-%20Free%React%204%20Admin%20Template%20&url=https://coreui.io&hashtags=bootstrap,admin,template,dashboard,panel,free,angular,react,vue)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![@coreui coreui](https://img.shields.io/badge/@coreui%20-coreui-lightgrey.svg?style=flat-square)](https://github.com/coreui/coreui)
@@ -40,7 +40,8 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 
 * [CoreUI Free Bootstrap Admin Template](https://github.com/coreui/coreui-free-bootstrap-admin-template)
 * [CoreUI Free Angular Admin Template](https://github.com/coreui/coreui-free-angular-admin-template)
-* [CoreUI Free React.js Admin Template](https://github.com/coreui/coreui-free-react-admin-template)
+* [CoreUI Free React.js Admin Template (Vite)](https://github.com/coreui/coreui-free-react-admin-template)
+* [CoreUI Free React.js Admin Template (Create React App)](https://github.com/coreui/coreui-free-react-admin-template-cra)
 * [CoreUI Free Vue.js Admin Template](https://github.com/coreui/coreui-free-vue-admin-template)
 
 ## CoreUI PRO
@@ -62,8 +63,8 @@ CoreUI is meant to be the UX game changer. Pure & transparent code is devoid of 
 
 ## Quick Start
 
-- [Download the latest release](https://github.com/coreui/coreui-free-react-admin-template/archive/refs/heads/main.zip)
-- Clone the repo: `git clone https://github.com/coreui/coreui-free-react-admin-template.git`
+- [Download the latest release](https://github.com/coreui/coreui-free-react-admin-template-cra/archive/refs/heads/main.zip)
+- Clone the repo: `git clone https://github.com/coreui/coreui-free-react-admin-template-cra.git`
 
 ### Installation
 
@@ -136,7 +137,7 @@ coreui-free-react-admin-template
 
 ## Documentation
 
-The documentation for the CoreUI Admin Template is hosted at our website [CoreUI for React](https://coreui.io/react/)
+The documentation for the CoreUI Admin Template is hosted at our website [CoreUI for React](https://coreui.io/react/docs/templates/installation/)
 
 ## Versioning
 
